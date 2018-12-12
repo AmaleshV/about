@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Amalesh Vemula &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://amaleshv.github.io/about/wp-includes/css/dashicons.min.css?ver=5.0' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://amaleshv.github.io/about/wp-includes/css/buttons.min.css?ver=5.0' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://amaleshv.github.io/about/wp-admin/css/forms.min.css?ver=5.0' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://amaleshv.github.io/about/wp-admin/css/l10n.min.css?ver=5.0' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://amaleshv.github.io/about/wp-admin/css/login.min.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/amaleshv.github.io/about/wp-includes/css/dashicons.min.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/amaleshv.github.io/about/wp-includes/css/buttons.min.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/amaleshv.github.io/about/wp-admin/css/forms.min.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/amaleshv.github.io/about/wp-admin/css/l10n.min.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://localhost/https:/amaleshv.github.io/about/wp-admin/css/login.min.css?ver=5.0' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
 		</head>
@@ -21,7 +21,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
 	
-<form name="loginform" id="loginform" action="/https://amaleshv.github.io/about/wp-login.php" method="post">
+<form name="loginform" id="loginform" action="http://localhost/https:/amaleshv.github.io/about/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Username or Email Address<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -39,7 +39,7 @@
 </form>
 
 <p id="nav">
-	<a href="/https://amaleshv.github.io/about/wp-login.php?action=lostpassword">Lost your password?</a>
+	<a href="http://localhost/https:/amaleshv.github.io/about/wp-login.php?action=lostpassword">Lost your password?</a>
 </p>
 
 <script type="text/javascript">
@@ -56,7 +56,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="/https://amaleshv.github.io/about/">&larr; Back to Amalesh Vemula</a></p>
+	<p id="backtoblog"><a href="http://localhost/https:/amaleshv.github.io/about/">&larr; Back to Amalesh Vemula</a></p>
 		
 	</div>
 
