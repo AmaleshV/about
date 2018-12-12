@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Action &#8211; Amalesh Vemula</title>
+	<atom:link href="https://amaleshv.github.io/about/portfolio_tag/action/feed/" rel="self" type="application/rss+xml" />
+	<link>https://amaleshv.github.io/about</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 12 Dec 2018 19:11:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0</generator>
+	<item>
+		<title>Twin Brothers</title>
+		<link>https://amaleshv.github.io/about/portfolio/twin-brothers/</link>
+		<pubDate>Thu, 24 Nov 2016 19:33:34 +0000</pubDate>
+		<dc:creator><![CDATA[amalesh]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.goodlayers.com/kleanity/?post_type=portfolio&#038;p=3997</guid>
+		<description><![CDATA[Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec ullamcorper nulla non metus auctor fringilla.]]></description>
+				<content:encoded><![CDATA[<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec ullamcorper nulla non metus auctor fringilla.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>400</title>
+		<link>https://amaleshv.github.io/about/portfolio/400/</link>
+		<pubDate>Thu, 24 Nov 2016 19:23:19 +0000</pubDate>
+		<dc:creator><![CDATA[amalesh]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.goodlayers.com/kleanity/?post_type=portfolio&#038;p=3996</guid>
+		<description><![CDATA[Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec ullamcorper nulla non metus auctor fringilla.]]></description>
+				<content:encoded><![CDATA[<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec ullamcorper nulla non metus auctor fringilla.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Bomb Raider</title>
+		<link>https://amaleshv.github.io/about/portfolio/bomb-raider/</link>
+		<pubDate>Thu, 24 Nov 2016 19:09:41 +0000</pubDate>
+		<dc:creator><![CDATA[amalesh]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.goodlayers.com/kleanity/?post_type=portfolio&#038;p=3993</guid>
+		<description><![CDATA[Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec ullamcorper nulla non metus auctor fringilla.]]></description>
+				<content:encoded><![CDATA[<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec ullamcorper nulla non metus auctor fringilla.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
