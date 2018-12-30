@@ -119,9 +119,12 @@ body.onepagepro-background-pattern .onepagepro-body-outer-wrapper{ background-im
 .onepagepro-page-title-wrap.onepagepro-style-custom .onepagepro-page-caption{ font-size: 16px; } 
 .onepagepro-page-title-wrap.onepagepro-style-custom .onepagepro-page-caption{ letter-spacing: 0px; } 
 .onepagepro-page-title-wrap .onepagepro-page-title-overlay{ opacity: 0; } 
+.onepagepro-page-title-wrap{ background-image: url(https://amaleshv.github.io/about/wp-content/uploads/2016/11/shutterstock_323232137.jpg); } 
+body.archive .onepagepro-page-title-wrap{ background-image: url(https://amaleshv.github.io/about/wp-content/uploads/2016/11/pexels-photo-94303.jpeg); } 
 .onepagepro-not-found-wrap .onepagepro-not-found-background{ opacity: 0.27; } 
 .onepagepro-blog-title-wrap.onepagepro-style-custom .onepagepro-blog-title-content{ padding-top: 93px; } 
 .onepagepro-blog-title-wrap.onepagepro-style-custom .onepagepro-blog-title-content{ padding-bottom: 87px; } 
+.onepagepro-blog-title-wrap{ background-image: url(https://amaleshv.github.io/about/wp-content/uploads/2016/11/shutterstock_410628334.jpg); } 
 .onepagepro-blog-title-wrap .onepagepro-blog-title-overlay{ opacity: 0.69; } 
 body.single-post .onepagepro-sidebar-style-none, body.blog .onepagepro-sidebar-style-none{ max-width: 900px; } 
 .gdlr-core-portfolio-thumbnail .gdlr-core-portfolio-icon{ font-size: 22px; } 
@@ -137,7 +140,7 @@ body.single-post .onepagepro-sidebar-style-none, body.blog .onepagepro-sidebar-s
 .onepagepro-body, .onepagepro-body .gdlr-core-content-font, .onepagepro-body input, .onepagepro-body textarea, .onepagepro-body button, .onepagepro-body select, .onepagepro-body .onepagepro-content-font, .gdlr-core-audio .mejs-container *{ font-family: "Open Sans", sans-serif; } 
 .onepagepro-body .gdlr-core-info-font, .onepagepro-body .onepagepro-info-font{ font-family: "Open Sans", sans-serif; } 
 .onepagepro-body .gdlr-core-blog-info-font, .onepagepro-body .onepagepro-blog-info-font{ font-family: "Open Sans", sans-serif; } 
-.onepagepro-body .gdlr-core-quote-font{ font-family: Droid Serif; } 
+.onepagepro-body .gdlr-core-quote-font{ font-family: Georgia, serif; } 
 .onepagepro-body h1{ font-size: 52px; } 
 .onepagepro-body h2, #poststuff .gdlr-core-page-builder-body h2{ font-size: 48px; } 
 .onepagepro-body h3{ font-size: 36px; } 
@@ -150,6 +153,10 @@ body.single-post .onepagepro-sidebar-style-none, body.blog .onepagepro-sidebar-s
 .onepagepro-body{ font-size: 16px; } 
 .onepagepro-body, .onepagepro-body p, .onepagepro-line-height, .gdlr-core-line-height{ line-height: 1.7; } 
 .onepagepro-page-preload{ background-color: #ffffff; } 
+.onepagepro-body .onepagepro-top-notice-bar-button{ border-right-color: #b1d234; border-top-color: #b1d234; }.onepagepro-body .onepagepro-top-notice-bar-button{ border-right-color: rgba(177, 210, 52, 0.65); border-top-color: rgba(177, 210, 52, 0.65); }.onepagepro-body .onepagepro-top-notice-bar-button-mobile{ background: #b1d234; } 
+.onepagepro-body .onepagepro-top-notice-bar-button-wrap{ color: #ffffff; }.onepagepro-body .onepagepro-top-notice-bar-button-mobile{ color: #ffffff; } 
+.onepagepro-body .onepagepro-top-notice-bar{ background-color: #1b1b1b; } 
+.onepagepro-body .onepagepro-top-notice-bar{ color: #ffffff; } 
 .onepagepro-top-bar-background{ background-color: #222222; } 
 .onepagepro-body .onepagepro-top-bar{ border-bottom-color: #ffffff; } 
 .onepagepro-top-bar{ color: #ffffff; } 
@@ -222,6 +229,9 @@ body.onepagepro-boxed .onepagepro-body-wrapper, .gdlr-core-page-builder .gdlr-co
 .onepagepro-sidebar-area .onepagepro-widget-title{ color: #383838; } 
 .onepagepro-sidebar-area a{ color: #484848; }.widget_recent_entries ul li:before, .widget_recent_comments ul li:before, .widget_pages ul li:before, .widget_rss ul li:before, .widget_archive ul li:before, .widget_categories ul li:before, .widget_nav_menu ul li:before, .widget_meta ul li:before{ color: #484848; } 
 .onepagepro-sidebar-area a:hover, .onepagepro-sidebar-area .current-menu-item > a{ color: #323232; } 
+.onepagepro-sidebar-area .tagcloud a{ color: #ffffff; } 
+.onepagepro-sidebar-area .tagcloud a{ background: #2a2a2a; } 
+.onepagepro-sidebar-area .tagcloud a:hover{ background: #393939; } 
 .gdlr-core-recent-post-widget .gdlr-core-blog-info i{ color: #9c9c9c; } 
 .gdlr-core-recent-post-widget .gdlr-core-blog-info, .gdlr-core-recent-post-widget .gdlr-core-blog-info a, .gdlr-core-recent-post-widget .gdlr-core-blog-info a:hover{ color: #a0a0a0; } 
 .gdlr-core-post-slider-widget-overlay .gdlr-core-post-slider-widget-title{ color: #ffffff; } 
@@ -237,6 +247,9 @@ ul.gdlr-core-twitter-widget-wrap li .gdlr-core-twitter-widget-date a, ul.gdlr-co
 .onepagepro-footer-wrapper a{ color: #bababa; } 
 .onepagepro-footer-wrapper a:hover{ color: #ffffff; } 
 .onepagepro-footer-wrapper, .onepagepro-footer-wrapper *{ border-color: #494949; } 
+.onepagepro-footer-wrapper .tagcloud a{ color: #ffffff; } 
+.onepagepro-footer-wrapper .tagcloud a{ background: #2a2a2a; } 
+.onepagepro-footer-wrapper .tagcloud a:hover{ background: #393939; } 
 .onepagepro-copyright-wrapper{ background-color: #181818; } 
 .onepagepro-copyright-wrapper{ color: #838383; } 
 .onepagepro-copyright-wrapper a{ color: #838383; } 
